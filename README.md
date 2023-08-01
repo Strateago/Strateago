@@ -7,11 +7,11 @@
   </p>
 
   <p align="left">
-    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning and AI </strong>...
+    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Frontend and Backend </strong>...
   </p>
 
   <p align="left">
-    🌱 I’m currently learning <strong>Python, C, C++ and Javascript</strong>...
+    🌱 I’m currently learning <strong>Python, x86 Assembly and SQL</strong>...
   </p>
 
   <p align="left">
