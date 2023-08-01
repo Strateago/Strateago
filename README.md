@@ -3,11 +3,11 @@
   <p align="left"> 
     <a href="https://github.com/ribeirowski/?tab=follow">
     <img src="https://img.shields.io/github/followers/ribeirowski?label=Follow&style=social" align="right"/></a>
-    👋 Hi, I’m <strong>@Strateago</strong>, also known as <strong>Thiago</strong>. I'm a Computer Engineering Student at <a href="https://www.cin.ufpe.br" target="_blank" rel="noopener noreferrer">CIn, UFPE</a>!
+    👋 Hi, I’m <strong>@Strateago</strong>, also known as <strong>Thiago</strong>. I'm a Computer Engineering Student at <a href="https://www.cin.ufpe.br" target="_blank" rel="noopener noreferrer">CIn UFPE</a>!
   </p>
 
   <p align="left">
-    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front end and Back end </strong>...
+    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front-end and Back-end </strong>...
   </p>
 
   <p align="left">
