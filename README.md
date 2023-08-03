@@ -11,7 +11,7 @@
   </p>
 
   <p align="left">
-    🌱 I’m currently learning <strong>Python, x86 Assembly and SQL</strong>...
+    🌱 I’m currently learning <strong>Python, x86 Assembly, SQL, HTML, CSS and Javascript</strong>...
   </p>
 
   <p align="left">
