@@ -7,15 +7,15 @@
   </p>
 
   <p align="left">
-    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front-end and Back-end </strong>...
+    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front-end and Back-end, and cibersecurity </strong>...
   </p>
 
   <p align="left">
-    🌱 I’m currently learning <strong>Python, x86 Assembly, SQL, HTML, CSS and Javascript</strong>...
+    🌱 I’m currently learning <strong> Open CV, node.js and next.js</strong>...
   </p>
 
   <p align="left">
-    👀 I’m looking to collaborate on beginners projects to improve my skills.
+    👀 I’m looking to collaborate on projects to improve my skills.
   </p>
 
   <p align="left">
