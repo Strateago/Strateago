@@ -7,7 +7,7 @@
   </p>
 
   <p align="left">
-    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front-end and Back-end, and cybersecurity </strong>...
+    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning, AI, Front-end, Back-end, and cybersecurity </strong>...
   </p>
 
   <p align="left">
@@ -28,7 +28,7 @@
   </ul>
 
   <p align="left">
-    <a href="https://instagram.com/TagoCoisado" alt="Instagram">
+    <a href="https://instagram.com/Strateago" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
     <a href="https://www.linkedin.com/in/thiagograngeiro/" alt="Linkedin">
