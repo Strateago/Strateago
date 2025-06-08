@@ -11,10 +11,6 @@
   </p>
 
   <p align="left">
-    👀 I’m looking to collaborate on projects to improve my skills.
-  </p>
-
-  <p align="left">
     📫 How to reach me:
   </p>
 
